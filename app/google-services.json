@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84075281877",
+    "project_id": "appnote-d4976",
+    "storage_bucket": "appnote-d4976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84075281877:android:100c243e41c8eccc42115c",
+        "android_client_info": {
+          "package_name": "com.example.appnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6g7ouCz7A4o7r-zqiB8GXxW7DBIQabMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
